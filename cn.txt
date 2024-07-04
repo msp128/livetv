@@ -78,12 +78,12 @@ CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 河北,#genre#
-河北经济生活,http://bb66b6.netsite.cc/proxy/839342764/839342764.m3u8
-河北都市,http://bb66b6.netsite.cc/proxy/1382613512/1382613512.m3u8
-河北公共,http://bb66b6.netsite.cc/proxy/1380350629/1380350629.m3u8
-河北影视剧,http://bb66b6.netsite.cc/proxy/105462334/105462334.m3u8
-河北少儿科教,http://bb66b6.netsite.cc/proxy/177438581/177438581.m3u8
-河北农民,http://bb66b6.netsite.cc/proxy/1382120425/1382120425.m3u8
+河北经济生活,http://2918ce.netsite.cc/proxy/839342764/839342764.m3u8
+河北都市,http://2918ce.netsite.cc/proxy/1382613512/1382613512.m3u8
+河北公共,http://2918ce.netsite.cc/proxy/1380350629/1380350629.m3u8
+河北影视剧,http://2918ce.netsite.cc/proxy/105462334/105462334.m3u8
+河北少儿科教,http://2918ce.netsite.cc/proxy/177438581/177438581.m3u8
+河北农民,http://2918ce.netsite.cc/proxy/1382120425/1382120425.m3u8
 河北杂技,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13002/index.m3u8
 石家庄新文综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
