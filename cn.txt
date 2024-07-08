@@ -85,8 +85,8 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 河北少儿科教,http://597ca2.netsite.cc/proxy/177438581/177438581.m3u8
 河北农民,http://597ca2.netsite.cc/proxy/1382120425/1382120425.m3u8
 河北杂技,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13002/index.m3u8
-石家庄新文综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
-石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
+石家庄新文综合,	http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
+石家庄娱乐,	http://pluslive1.sjzntv.cn/yule/playlist.m3u8
 石家庄都市,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8
 石家庄生活,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8
 定州新闻综合,https://jwliveqxzb.hebyun.com.cn/xxzhpd/xxzhpd.m3u8
